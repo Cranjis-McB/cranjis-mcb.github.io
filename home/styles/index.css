@@ -10,6 +10,7 @@ p{
 }
 
 h1{
+  display: flex;
   font-size: 40px;
   font-weight: 500;
   margin-bottom: 15px;
@@ -18,9 +19,10 @@ h1{
 }
 
 .profile-pic{
-    width: 200px;
-    margin-right: 50px;
-    border-radius: 4px;
+  display: flex;
+  width: 200px;
+  margin-right: 50px;
+  border-radius: 4px;
 }
 
 .main-div{
