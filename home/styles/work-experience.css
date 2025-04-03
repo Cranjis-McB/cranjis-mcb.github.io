@@ -37,3 +37,7 @@
     max-width: 40%;
     align-content: left;
 }
+
+.contribution::first-line {
+    padding-left: 20px; /* Adds padding only to the first line */
+}
