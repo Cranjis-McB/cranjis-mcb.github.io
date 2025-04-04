@@ -41,3 +41,10 @@
 .contribution::first-line {
     padding-left: 20px; /* Adds padding only to the first line */
 }
+
+.project-title {
+    font-size: clamp(14px, 2vw, 18px); /* Responsive font size */
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(212, 78, 107);
+}
+
